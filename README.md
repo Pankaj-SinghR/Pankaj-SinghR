@@ -2,9 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PankajSingh1010/PankajSigh1010)
 
-I'm currently pursuing my master's degree in cs. My passion for programming lies with dreaming up ideas and making them come true.i am also an open-source enthusiast and contributor. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
+I'm currently pursuing my master's degree in cs.I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
+My passion for programming lies with dreaming up ideas and making them come true.i am also an open-source enthusiast and contributor. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+ 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning  Data Structure and Algorithms, Machine learning, Docker And Kubernetes
 - 💬 Ask me about anything, I am happy to help;
