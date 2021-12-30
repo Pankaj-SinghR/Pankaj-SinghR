@@ -36,3 +36,5 @@ Languages
 Frameworks, Platforms and Libraries  
 ![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
 ![Django](https://img.shields.io/badge/Django-%23404d59.svg?style=for-the-badge&logo=Django&logoColor=%2361DAFB)
+![Numpy](https://img.shields.io/badge/numpy-%23404d59.svg?style=for-the-badge&logo=numpy&logoColor=%2361DAFB)
+![Pandas](https://img.shields.io/badge/pandas-%23404d59.svg?style=for-the-badge&logo=pandas&logoColor=%2361DAFB)
