@@ -1,29 +1,27 @@
-<h1> Hi, I'm Pankaj Singh <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
+# Hi, I'm Pankaj Singh <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PankajSingh1010/PankajSigh1010)
-
-I'm currently pursuing my master's degree in cs.I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
+I'm currently pursuing my master's degree in CS. I am passionate about Kubernetes, Web Dev, Machine Learning, and DevOps. I enjoy learning new things.
 My passion for programming lies with dreaming up ideas and making them come true.i am also an open-source enthusiast and contributor. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
- 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning  Data Structure and Algorithms, Machine learning, Docker And Kubernetes, Web dev
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: 
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/its_pankaj10) 
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning Data Structures and Algorithms, Machine learning, Docker, Kubernetes, and Web Development
+- 💬 Ask me about anything, I am happy to help!
+- 📫 How to reach me:
+
+[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/)
+[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/its_pankaj10)
 [<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:pankajsingh132000@gmail.com)
 [<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/its_pankajsingh10)
 
-<h2>Summary</h2>
+## 🚀 Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajsingh1010&theme=monokai) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pankajsingh1010&theme=monokai) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pankajsingh1010&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pankajsingh1010&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pankajsingh1010&theme=monokai) 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajsingh1010&theme=monokai) 
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pankajsingh1010&theme=monokai) 
+![Top repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pankajsingh1010&theme=monokai)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pankajsingh1010&theme=monokai)
+![Commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pankajsingh1010&theme=monokai)
 
-<h2>🛠Tech Stack</h2>
+## 🛠 Tech Stack
 
 Languages  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
