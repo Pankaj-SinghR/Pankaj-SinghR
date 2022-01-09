@@ -1,6 +1,6 @@
 # Hi, I'm Pankaj Singh <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
 
-I'm currently pursuing my master's degree in CS. I am passionate about Kubernetes, Web Dev, Machine Learning, and DevOps. I enjoy learning new things.
+I'm currently pursuing my master's degree in CS. I am passionate about Kubernetes, Web Dev, Machine Learning and DevOps. I enjoy learning new things.
 My passion for programming lies with dreaming up ideas and making them come true.i am also an open-source enthusiast and contributor. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 - 🔭 I’m currently working on something cool
