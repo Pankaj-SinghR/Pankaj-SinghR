@@ -15,11 +15,11 @@ My passion for programming lies with dreaming up ideas and making them come true
 
 ## 🚀 Summary
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajsingh1010&theme=monokai) 
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pankajsingh1010&theme=monokai) 
-![Top repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pankajsingh1010&theme=monokai)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pankajsingh1010&theme=monokai)
-![Commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pankajsingh1010&theme=monokai)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj-SinghR&theme=monokai) 
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pankaj-SinghR&theme=monokai) 
+![Top repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pankaj-SinghR&theme=monokai)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pankaj-SinghR&theme=monokai)
+![Commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pankaj-SinghR&theme=monokai)
 
 ## 🛠 Tech Stack
 
