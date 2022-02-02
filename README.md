@@ -18,6 +18,7 @@ My passion for programming lies with dreaming up ideas and making them come true
 - [Type Coercion in JavaScript](https://pankaj-singhr.hashnode.dev/type-coercion-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
+---
 ## 🚀 Summary
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj-SinghR&theme=monokai) 
