@@ -15,6 +15,7 @@ My passion for programming lies with dreaming up ideas and making them come true
 
 ## 📕 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Type Coercion in JavaScript](https://pankaj-singhr.hashnode.dev/type-coercion-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Summary
