@@ -15,11 +15,11 @@ My passion for programming lies with dreaming up ideas and making them come true
 
 ## 📕 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Nexus as Docker Container on DigitalOcean Droplet](https://pankaj-singhr.hashnode.dev/deploy-nexus-as-docker-container-on-digitalocean-droplet)
 - [Introduction to Blob Storage in Nexus](https://pankaj-singhr.hashnode.dev/introduction-to-blob-storage-in-nexus)
 - [How to publish Java Artifact using Build tool Gradle To Repository &lpar;Nexus&rpar;](https://pankaj-singhr.hashnode.dev/how-to-publish-java-artifact-using-build-tool-gradle-to-repository-nexus)
 - [Artifact Repository Manager with Nexus](https://pankaj-singhr.hashnode.dev/artifact-repository-manager-with-nexus)
 - [10 most useful string methods in Java](https://pankaj-singhr.hashnode.dev/10-most-useful-string-methods-in-java)
-- [Type Coercion in JavaScript](https://pankaj-singhr.hashnode.dev/type-coercion-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
