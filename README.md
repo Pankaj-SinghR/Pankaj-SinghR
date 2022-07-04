@@ -15,7 +15,7 @@ My passion for programming lies with dreaming up ideas and making them come true
 
 ## 📕 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup Jenkins Docker Container on your Server](https://pankaj-singhr.hashnode.dev/how-to-setup-jenkins-docker-container-on-your-server)
+- [How to Setup Jenkins Docker Container on Server](https://pankaj-singhr.hashnode.dev/how-to-setup-jenkins-docker-container-on-server)
 - [Deploy Nexus as Docker Container on DigitalOcean Droplet](https://pankaj-singhr.hashnode.dev/deploy-nexus-as-docker-container-on-digitalocean-droplet)
 - [Introduction to Blob Storage in Nexus](https://pankaj-singhr.hashnode.dev/introduction-to-blob-storage-in-nexus)
 - [How to publish Java Artifact using Build tool Gradle To Repository &lpar;Nexus&rpar;](https://pankaj-singhr.hashnode.dev/how-to-publish-java-artifact-using-build-tool-gradle-to-repository-nexus)
