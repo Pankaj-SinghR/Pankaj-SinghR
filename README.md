@@ -32,5 +32,10 @@
 
 ## 👇 &nbsp;My Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
+- [How to Setup Jenkins Docker Container on Server](https://pankaj-singhr.hashnode.dev/how-to-setup-jenkins-docker-container-on-server)
+- [Deploy Nexus as Docker Container on DigitalOcean Droplet](https://pankaj-singhr.hashnode.dev/deploy-nexus-as-docker-container-on-digitalocean-droplet)
+- [Introduction to Blob Storage in Nexus](https://pankaj-singhr.hashnode.dev/introduction-to-blob-storage-in-nexus)
+- [How to publish Java Artifact using Build tool Gradle To Repository &lpar;Nexus&rpar;](https://pankaj-singhr.hashnode.dev/how-to-publish-java-artifact-using-build-tool-gradle-to-repository-nexus)
+- [Artifact Repository Manager with Nexus](https://pankaj-singhr.hashnode.dev/artifact-repository-manager-with-nexus)
 <!-- BLOG-POST-LIST:END -->
