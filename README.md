@@ -1,48 +1,38 @@
-# Hi, I'm Pankaj Singh <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
+## 👨🏻‍💻 &nbsp;About Me
 
-I'm currently pursuing my master's degree in CS. I am passionate about Kubernetes, Web Dev, Machine Learning and DevOps. I enjoy learning new things.
-My passion for programming lies with dreaming up ideas and making them come true.i am also an open-source enthusiast and contributor. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+- 👋 Hi, I’m @Pankaj-SinghR aka Pankaj Singh Rautela
+- 👀 I’m interested in new techonlogies
+- 🌱 I’m currently collaborating with The Oppia Foundation 
+- 📫 How to reach me pankajsingh132000@gmail.com
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Data Structures and Algorithms, Machine learning, Docker, Kubernetes, and Web Development
-- 💬 Ask me about anything, I am happy to help!
-- 📫 How to reach me:
+## 🛠 &nbsp;Tech Stack
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/pankaj-singh-r/)
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/Pankaj_SinghR)
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:pankajsingh132000@gmail.com)
-[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/pankaj.singh._10)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-## 📕 Latest Blog Post
-<!-- BLOG-POST-LIST:START -->
-- [How to Setup Jenkins Docker Container on Server](https://pankaj-singhr.hashnode.dev/how-to-setup-jenkins-docker-container-on-server)
-- [Deploy Nexus as Docker Container on DigitalOcean Droplet](https://pankaj-singhr.hashnode.dev/deploy-nexus-as-docker-container-on-digitalocean-droplet)
-- [Introduction to Blob Storage in Nexus](https://pankaj-singhr.hashnode.dev/introduction-to-blob-storage-in-nexus)
-- [How to publish Java Artifact using Build tool Gradle To Repository &lpar;Nexus&rpar;](https://pankaj-singhr.hashnode.dev/how-to-publish-java-artifact-using-build-tool-gradle-to-repository-nexus)
-- [Artifact Repository Manager with Nexus](https://pankaj-singhr.hashnode.dev/artifact-repository-manager-with-nexus)
-<!-- BLOG-POST-LIST:END -->
 
----
-## 🚀 Summary
+## ⚙️ &nbsp;GitHub Analytics
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj-SinghR&theme=monokai) 
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pankaj-SinghR&theme=monokai) 
-![Top repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pankaj-SinghR&theme=monokai)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pankaj-SinghR&theme=monokai)
-![Commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pankaj-SinghR&theme=monokai)
+<p align="left">
+<a href="https://github.com/Pankaj-SinghR">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pankaj-SinghR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pankaj-SinghR&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-## 🛠 Tech Stack
 
-Languages  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+## 👇 &nbsp;My Latest Blog Posts
 
-Frameworks, Platforms and Libraries  
-![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
-![Django](https://img.shields.io/badge/Django-%23404d59.svg?style=for-the-badge&logo=Django&logoColor=%2361DAFB)
-![Numpy](https://img.shields.io/badge/numpy-%23404d59.svg?style=for-the-badge&logo=numpy&logoColor=%2361DAFB)
-![Pandas](https://img.shields.io/badge/pandas-%23404d59.svg?style=for-the-badge&logo=pandas&logoColor=%2361DAFB)
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
+ 
