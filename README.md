@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Pankaj-SinghR aka Pankaj Singh Rautela
 - 👀 I’m interested in new techonlogies
-- 🌱 I’m currently collaborating with The Oppia Foundation 
+- 🌱 I’m currently learning Golang & Java 
 - 📫 How to reach me pankajsingh132000@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
