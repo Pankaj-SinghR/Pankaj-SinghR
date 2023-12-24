@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 👋 Hi, I’m @Pankaj-SinghR aka Pankaj Singh Rautela
-- 👀 I’m interested in new techonlogies
+- 👀 I’m interested in everything from microcontrollers to microservices
 - 🌱 I’m currently learning Golang & Java 
 - 📫 How to reach me pankajsingh132000@gmail.com
 
